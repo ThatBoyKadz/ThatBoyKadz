@@ -9,7 +9,7 @@ each link will take you to each weeks repo to discuss in more information regard
 
 
 - <b>Week 2 Networks and System Security</b>
-  - [Week 2 Networks and System Security](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Week 2 Networks and System Security](https://github.com/ThatBoyKadz/Week-2-networks-and-Sytem)
 - <b>Week 3 Netowrks and System Security</b>
   - [Week 3 Networks and System Security](https://github.com/ThatBoyKadz/Week-3-Networks-and-System) 
 - <b>Week 4 Networks and System Security</b>
